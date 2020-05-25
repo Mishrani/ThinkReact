@@ -1,5 +1,5 @@
 import React from 'react';
-import SearchBar from './components/SearchBar ';
+import SearchBar from './components/SearchBar';
 import ProductTable from './components/ProductTable/ProductTable'
 import './App.css';
 

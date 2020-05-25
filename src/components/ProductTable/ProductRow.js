@@ -1,7 +1,7 @@
 import React from 'react'
 
 const ProductRow = (props) => {
-    const rowinfo = props.namelist
+    const rowinfo = props.product
     return (
         <tr>
             <td>{rowinfo.name} {" "} {rowinfo.price}</td>
